@@ -1,4 +1,4 @@
-package com.erudayu.LLD.CreationalDesignPattern;
+package com.erudayu.LLD.CreationalDesignPattern.user;
 
 /*
 * Singleton Design pattern

@@ -1,6 +1,5 @@
 package com.erudayu.LLD;
 
-import com.erudayu.LLD.CreationalDesignPattern.UserDatabase;
 import com.erudayu.LLD.CreationalDesignPattern.order.Order;
 import com.erudayu.LLD.CreationalDesignPattern.order.Status;
 import com.erudayu.LLD.CreationalDesignPattern.product.Product;
@@ -11,10 +10,8 @@ import com.erudayu.LLD.CreationalDesignPattern.user.User;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import java.sql.SQLOutput;
 import java.util.Arrays;
 import java.util.LinkedList;
-import java.util.List;
 
 @SpringBootApplication
 public class LldApplication {
