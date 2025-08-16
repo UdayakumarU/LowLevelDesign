@@ -1,6 +1,6 @@
-package com.erudayu.LLD.BehavioralDesignPattern.Producer;
+package com.erudayu.LLD.BehavioralDesignPattern.producer;
 
-import com.erudayu.LLD.BehavioralDesignPattern.Observer.TextEditorObserver;
+import com.erudayu.LLD.BehavioralDesignPattern.observer.TextEditorObserver;
 
 public interface TextEditorProducer {
 

@@ -1,8 +1,8 @@
 package com.erudayu.LLD.BehavioralDesignPattern;
 
-import com.erudayu.LLD.BehavioralDesignPattern.Observer.TextConsoleObserver;
-import com.erudayu.LLD.BehavioralDesignPattern.Observer.TextEditorObserver;
-import com.erudayu.LLD.BehavioralDesignPattern.Producer.TextEditor;
+import com.erudayu.LLD.BehavioralDesignPattern.observer.TextConsoleObserver;
+import com.erudayu.LLD.BehavioralDesignPattern.observer.TextEditorObserver;
+import com.erudayu.LLD.BehavioralDesignPattern.producer.TextEditor;
 import com.erudayu.LLD.BehavioralDesignPattern.command.FormatTextCommand;
 import com.erudayu.LLD.BehavioralDesignPattern.command.TextEditorCommand;
 import com.erudayu.LLD.BehavioralDesignPattern.statergy.TextFormattingStratergy;

@@ -1,6 +1,6 @@
 package com.erudayu.LLD.BehavioralDesignPattern.command;
 
-import com.erudayu.LLD.BehavioralDesignPattern.Producer.TextEditor;
+import com.erudayu.LLD.BehavioralDesignPattern.producer.TextEditor;
 import com.erudayu.LLD.BehavioralDesignPattern.statergy.TextFormattingStratergy;
 
 public class FormatTextCommand implements TextEditorCommand{
